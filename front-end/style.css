@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(20, 20, 20);
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav ul {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+ul a li {
+  list-style:  none;
+  color: white;
+  font-size: 18px;
+}
+
